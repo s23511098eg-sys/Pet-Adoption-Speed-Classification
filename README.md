@@ -206,9 +206,13 @@ Interested in:
 
 
 🤖 Artificial Intelligence
+
 📊 Data Analysis
+
 📈 Data Science
+
 🧠 Machine Learning
+
 💻 Software Development
 
 
