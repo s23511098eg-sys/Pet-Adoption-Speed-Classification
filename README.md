@@ -177,6 +177,23 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Dashboard Preview
+
+### 1. Data Exploration
+![Data Exploration](Data%20Exploration.png)
+
+### 2. EDA - Overview
+![EDA 1](EDA%201.png)
+
+### 3. EDA - Analysis
+![EDA 2](EDA%202.png)
+
+### 4. Prediction
+![Prediction](Perdiction.png)
+
+### 5. Model Results
+![Results](Results.png)
+
 ## 👩‍💻 Project Purpose
 
 This project demonstrates the application of Machine Learning classification techniques to a real-world pet adoption problem, from data exploration and preprocessing to model evaluation and interactive deployment.س
