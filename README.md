@@ -195,16 +195,22 @@ streamlit run app.py
 ![Results](Results.png)
 
 👩‍💻 Author
+
 Sarah Saeed
+
 Computer Science Student | AI Track
 
+
+
 Interested in:
+
 
 🤖 Artificial Intelligence
 📊 Data Analysis
 📈 Data Science
 🧠 Machine Learning
 💻 Software Development
+
 
 ## 👩‍💻 Project Purpose
 
