@@ -194,6 +194,18 @@ streamlit run app.py
 ### 5. Model Results
 ![Results](Results.png)
 
+👩‍💻 Author
+Sarah Saeed
+Computer Science Student | AI Track
+
+Interested in:
+
+🤖 Artificial Intelligence
+📊 Data Analysis
+📈 Data Science
+🧠 Machine Learning
+💻 Software Development
+
 ## 👩‍💻 Project Purpose
 
-This project demonstrates the application of Machine Learning classification techniques to a real-world pet adoption problem, from data exploration and preprocessing to model evaluation and interactive deployment.س
+This project demonstrates the application of Machine Learning classification techniques to a real-world pet adoption problem, from data exploration and preprocessing to model evaluation and interactive deployment.
